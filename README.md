@@ -15,4 +15,4 @@ Developed an interactive Excel dashboard to analyze coffee shop sales performanc
 
 ---
 ### **Dashboard Preview**
-![Dashboard Screenshot](coffee shop.png)
+![Dashboard Screenshot](coffee%20shop.png)
